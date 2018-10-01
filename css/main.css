@@ -8,34 +8,34 @@ img {
 }
 
 h1, h2 {
-      font-family: "Patua One";
-      color: #5d8432;
-      text-transform: uppercase;
+    font-family: "Patua One";
+    color: #5d8432;
+    text-transform: uppercase;
 }
 
 figcaption {
-          font-size: .8rem;
-          font-style: italic;
-          text-align: center;
+    font-size: .8rem;
+    font-style: italic;
+    text-align: center;
 }
 nav {
-    font-family: "Patua One";
-    font-size: 1.125rem;
-    font-weight: bold;
+  font-family: "Patua One";
+  font-size: 1.125rem;
+  font-weight: bold;
 }
 nav ol {
-      list-style-type: none;
+  list-style-type: none;
 }
 
 nav a {
-      color: #793284;
-      text-decoration: none;
+  color: #793284;
+  text-decoration: none;
 }
 
 nav a:hover {
-            color: #b42885;
-            text-decoration: underline;
+  color: #b42885;
+  text-decoration: underline;
 }
 .intro {
-      font-size: 1rem;
+  font-size: 1rem;
 }
